@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchRewardsAssessment</string>
+    <string name="item_id">ID</string>
+    <string name="item_list_id">List ID</string>
+    <string name="item_name">Item Name</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+</resources>
