@@ -1,4 +1,4 @@
-# FetchRewardsAssessment
+# Fetch Rewards Coding Exercise
 App that retrieves the data from https://fetch-hiring.s3.amazonaws.com/hiring.json.
 
 List of items to the user based on the following requirements:
