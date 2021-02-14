@@ -11,7 +11,7 @@ Display list of items based on the following requirements:
 As listID is a string variable it is been sorted alphabetically.
 Example if list is [Item 10, Item 4, Item 11] the resultant list after sorting will be [Item 10, Item 11, Item 4] as sorting is done on string value.
 
-Architechture Used: MVVM
+### Architechture Used: MVVM
 
 # Internet Connectivity
 If internet connection is lost, App will try to reconnect once the device is online.
